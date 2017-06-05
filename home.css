@@ -1,0 +1,172 @@
+body
+{
+  background-color: white;
+}
+{
+
+    max-width: 500%;
+    height: 100%;
+    background-color:black;
+    font-family: sans-serif;
+}
+
+
+
+#one
+{
+max-width: 100%;
+max-height: 100%;
+font-size: 50px;
+text-align: center;
+color: black;
+padding: 50px;
+background-color:lightgray;
+margin-top: +40px;
+
+}
+
+#two
+{
+
+  max-width: 100%;
+  max-height: 100%;
+  margin-left: 35px;
+  margin-top: -160px;
+  padding-bottom: 20px;
+
+
+}
+
+#three {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#item {
+    float: left;
+}
+
+#item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#item a:hover:not(.active) {
+    background-color: green;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+#four
+{
+  background-color:;
+}
+
+#six
+{
+text-align: left;
+color: black;
+font-size: 42px;
+padding: 150px;
+margin-top: -50px;
+margin-left: 200px;
+color: black;
+}
+
+#seven
+{
+font-size: 26px;
+color: black;
+padding: 350px;
+margin-top: -510px;
+color: black;
+line-height: 1.5;
+}
+
+#eight
+{
+color: black;
+}
+#nine
+{
+  margin-top: -150px;
+}
+
+#orange
+{
+color: black;
+text-align: left;
+font-size:26px;
+padding: 300px;
+margin-top: -150px;
+line-height: 1.5;
+}
+
+
+
+#fact {
+  font-size: 26px;
+  color: black;
+  padding: 300px;
+  margin-top: -400px;
+  line-height: 1.5;
+}
+#last {
+  font-size: 26px;
+  color: black;
+  padding: 300px;
+  background-color: grey;
+  line-height: 1.5;
+
+}
+
+
+#o2
+{
+color: black;
+text-align: left;
+font-size:26px;
+padding: 350px;
+margin-top: -170px;
+line-height: 1.5;
+
+}
+
+#video2
+{
+  margin-top: -160px;
+}
+
+
+
+#last0 {
+  columns: 2;
+  font-size: 26px;
+  color: black;
+  padding: 260px;
+  text-align: right;
+  margin-top: -450px;
+  line-height: 1.5;
+  margin-right: 50px;
+}
+#last1
+{
+
+}
+
+
+
+#last
+{
+  background-color: gold;
+}
